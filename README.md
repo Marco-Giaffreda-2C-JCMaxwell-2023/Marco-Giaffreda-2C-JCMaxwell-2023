@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marco-Giaffreda
+- 👋 Hi, I’m Marco Giaffreda
 - 👀 I'm interested in computer science
 - 🌱 I'm currently learning HTML, Javascript, Pyton...
 - 📚 I'm 17 years old 
