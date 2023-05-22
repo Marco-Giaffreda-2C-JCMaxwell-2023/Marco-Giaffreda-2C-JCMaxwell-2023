@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marco Giaffreda
 - 👀 I'm interested in computer science
 - 🌱 I'm currently learning HTML, Javascript, Pyton...
-- 📚 I'm 17 years old 
+- 📚 I'm 16 years old 
 - 📫 How to reach me: by email writing to this address: marco.giaffreda@jcmaxwell.it
 
 <!---
